@@ -1,16 +1,18 @@
 # news_api_app
 
-A new Flutter project.
+News application with data from Newsapi.org 
 
-## Getting Started
+## Tech
 
-This project is a starting point for a Flutter application.
+- Flutter Spinkit
+- Http
+- Customisized Card Design
+- News Api
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![news_logo](https://github.com/user-attachments/assets/19ef5252-9163-49f7-828c-bc6a51a01315)
+2-8777-cc1d050d721b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![News_screenshot 1](https://github.com/user-attachments/assets/a276392c-3c0d-4a6
+
